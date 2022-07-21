@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#01095e</color>
+    <color name="purple_500">#01095e</color>
+    <color name="purple_700">#00095E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="view_bg_color">#19206e</color>
+    <color name="img_bg_color">#E4E2E2</color>
+    <color name="main_color">#01095e</color>
+    <color name="avial_to_buy_text_color">#252661</color>
+    <color name="see_all_color">#242fdd</color>
+    <color name="icon_unselect_color">#FF646CB5</color>
+</resources>
