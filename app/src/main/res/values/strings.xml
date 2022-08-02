@@ -11,11 +11,9 @@
     <string name="avail_to_buy">Available to buy</string>
     <string name="see_all">See all</string>
     <string name="sell">Sell</string>
-    <string name="collection_fragment">Hello Collection Fragment</string>
-    <string name="profile_fragment">Hello Profile Fragment</string>
-    <string name="scan_fragment">Hello Scan Fragment</string>
-    <string name="wishlist_fragment">Hello Wishlist Fragment</string>
-    <string name="splash_text">This is splash screen</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="collection_fragment">Collection Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="scan_fragment">Scan Fragment</string>
+    <string name="wishlist_fragment">Wishlist Fragment</string>
+    <string name="splash_text">splash screen</string>
 </resources>

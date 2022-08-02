@@ -45,7 +45,7 @@
                     android:layout_width="65dp"
                     android:layout_height="65dp"
                     android:scaleType="fitXY"
-                    android:src="@drawable/person_img"
+                    android:src="@drawable/img_pic"
                     android:layout_marginTop="16dp"
                     android:layout_marginEnd="8dp"
                     android:background="@color/img_bg_color"

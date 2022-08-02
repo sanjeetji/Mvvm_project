@@ -6,6 +6,8 @@
 
     <solid android:color="@color/view_bg_color" />
 
+
     <corners android:radius="10dp" />
+
 
 </shape>

@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable-v24/bg_rounded_card.xml" value="0.172" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable/background.xml" value="0.1835" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable/bg_bottam_nv.xml" value="0.2" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable/bg_bottam_nv1.xml" value="0.172" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable/bg_ios_dialog.xml" value="0.1835" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/drawable/ic_search.xml" value="0.172" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/layout/fragment_collection.xml" value="0.1" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/layout/fragment_home.xml" value="0.15081521739130435" />
+        <entry key="..\:/Appzlogic/Mvvm_project/Mvvm_project/app/src/main/res/menu/bottom_nav_bar_menu.xml" value="0.1" />
         <entry key="..\:/Appzlogic/mvvm/app/src/main/res/drawable-v24/bg_rounded_card.xml" value="0.144" />
         <entry key="..\:/Appzlogic/mvvm/app/src/main/res/drawable-v24/blue_circle.xml" value="0.1635" />
         <entry key="..\:/Appzlogic/mvvm/app/src/main/res/drawable-v24/ic_arrow_forward.xml" value="0.144" />

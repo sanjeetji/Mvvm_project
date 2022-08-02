@@ -10,7 +10,7 @@
     <color name="view_bg_color">#19206e</color>
     <color name="img_bg_color">#E4E2E2</color>
     <color name="main_color">#01095e</color>
-    <color name="avial_to_buy_text_color">#252661</color>
-    <color name="see_all_color">#242fdd</color>
+    <color name="avial_to_buy_text_color">#0b1161</color>
+    <color name="see_all_color">#424cff</color>
     <color name="icon_unselect_color">#FF646CB5</color>
 </resources>
